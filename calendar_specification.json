@@ -2,6 +2,7 @@
   "x-file-description-for-humans": "This is a calendar specification for an aggregated ChaosZone calendar. It uses this software: https://github.com/niccokunzmann/open-web-calendar",
   "x-specification-url": "https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/raw/master/calendar_specification.json",
     "url": [
+        "https://cloud.cyroxx.io/remote.php/dav/public-calendars/QTcJjWz9S9o3WJCM?export",
         "https://kalender.eigenbaukombinat.de/public/public.ics",
         "https://dezentrale.space/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
         "http://api.service.z-labor.space/spaceapi.json",
