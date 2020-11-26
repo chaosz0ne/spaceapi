@@ -8,7 +8,8 @@
         "https://www.c3d2.de/hq.ics",
         "http://chaoschemnitz.de/chch.ical",
         "https://open-web-calendar.herokuapp.com/calendar.ics?specification_url=https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/blob/master/calendar-specification.json",
-        "https://calendar.google.com/calendar/ical/2eskb61g20prl65k2qd01uktis%40group.calendar.google.com/public/basic.ics"
+        "https://calendar.google.com/calendar/ical/2eskb61g20prl65k2qd01uktis%40group.calendar.google.com/public/basic.ics",
+        "http://www.netz39.de/feed/eo-events/"
     ],
     "title": "ChaosZone-Kalender",
     "language": "de",
