@@ -5,7 +5,7 @@
         "https://cloud.cyroxx.io/remote.php/dav/public-calendars/QTcJjWz9S9o3WJCM?export",
         "https://kalender.eigenbaukombinat.de/public/public.ics",
         "https://dezentrale.space/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
-        "http://api.service.z-labor.space/spaceapi.json",
+        "http://calendars.service.z-labor.space/public.ics",
         "https://www.c3d2.de/hq.ics",
         "http://chaoschemnitz.de/chch.ical",
         "https://open-web-calendar.herokuapp.com/calendar.ics?specification_url=https://github.com/Chaostreff-Potsdam/Chaostreff-Potsdam.github.io/blob/master/calendar-specification.json",
